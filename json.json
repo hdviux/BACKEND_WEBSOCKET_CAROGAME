@@ -1,0 +1,33 @@
+////CREATE_ROOM
+{
+  "request": "CREATE_ROOM"
+}
+
+////JOIN_ROOM
+{
+  "request": "JOIN_ROOM",
+  "room_id": ""
+}
+
+////REMOVE_ROOM
+{
+  "request": "REMOVE_ROOM"
+}
+
+////GET_ROOM
+{
+  "request": "GET_ROOM",
+  "room_id": ""
+}
+
+////SEND_MESS_ROOM
+{
+  "request": "SEND_MESS_ROOM",
+  "message": ""
+}
+
+////SEND_POINT_BOARD_ROOM
+{
+  "request": "SEND_POINT_BOARD_ROOM",
+  "position": "4-4"
+}
